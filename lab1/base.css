@@ -1,0 +1,32 @@
+* {
+    font-size:16px;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+.services {
+    text-align: center;
+}
+
+
+
+
+.service {
+	border: 2px dashed black;
+	padding: 10px;
+    width: 290px;
+    height: 200px;
+    background-color: magenta;
+    float:left;
+    margin: 5px;
+    font-size: 0;
+}
+#inner{
+	
+	background-color: gray;
+	color: white;
+}
